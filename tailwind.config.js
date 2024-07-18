@@ -2,6 +2,9 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
+    fontFamily:{
+            'jeni':'Roboto, sans-serif'
+    },
     screens: {
       'sm': '480px',
       // => @media (min-width: 640px) { ... }

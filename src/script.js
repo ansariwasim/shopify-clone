@@ -4,10 +4,8 @@
 
  function scrollment(){
    document.getElementById("window").style.backgroundColor = "black"
-   document.getElementById("window").style.position = "fixed"
+  //  document.getElementById("window").style.position = "fixed"
    document.getElementById('bigNavbar').style.backgroundColor = "black"
-  //  document.getElementById("bigNavbar").style.position = "fixed"
-
  }
 
 
